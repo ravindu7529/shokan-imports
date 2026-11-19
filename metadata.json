@@ -1,0 +1,6 @@
+{
+  "name": "Shokan Imports",
+  "description": "A premium, modern vehicle listings website for Shokan Imports, a specialized car import dealership, featuring an advanced search and filter inventory system, full-detail vehicle spec sheets, and enquiry forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
